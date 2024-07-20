@@ -36,7 +36,7 @@ This project uses Convolutional Neural Networks (CNNs) to detect ships in images
 ## Usage Instructions
 
 1. **Setup**:
-   - Ensure all necessary libraries are installed, including `tensorflow`, `keras`, `opencv-python`, `numpy`, `pandas`, `scikit-learn`.
+   - Ensure all necessary libraries are installed, including `tensorflow`, `keras`, `opencv-python`, `numpy`, `pandas`, `scikit-learn`, `os`, `pyqt5`, `sys`, `pillow`, `seaborn`.
 
 2. **Run the Script**:
    - Execute the script `Model_Train.py` with the following command:
