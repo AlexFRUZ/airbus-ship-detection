@@ -1,0 +1,12 @@
+Modules:
+Scikit-learn
+Keras
+OpenCV
+Os
+NumPy
+Pandas
+PtQt
+PIL
+Shutil
+Sys
+Seaborn
