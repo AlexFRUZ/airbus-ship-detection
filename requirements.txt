@@ -1,11 +1,11 @@
 Modules:
 Scikit-learn
 Keras
-OpenCV
+Opencv-python
 Os
 NumPy
 Pandas
-PtQt
+PyQt
 PIL
 Shutil
 Sys
